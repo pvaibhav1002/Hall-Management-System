@@ -1,0 +1,20 @@
+form {
+    border: none;
+    align-items: center;
+}
+
+.col-md-2{
+    display: flex;
+    
+    align-items: center;
+    justify-items: center;
+}
+
+.button{
+    background-color: transparent;
+}
+
+textarea{
+    width: 100%;
+    padding:10px 10px 10px 20px;
+}
